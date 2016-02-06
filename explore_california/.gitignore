@@ -1,0 +1,9 @@
+#*.txt
+>DS_Store
+*.Zip
+*.gz
+log/*.lo
+asets/photoshop/
+assets/video/
+!assets/video/tour_*.mp4
+# question: would log/archive/access.log be ignored? No.
