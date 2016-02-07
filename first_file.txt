@@ -1,2 +1,0 @@
-This is my first file that i added to my project.
-Come before all other files.
